@@ -1,1 +1,2 @@
-Multi-Omics Data Integration. 
+# Multi-Omics Data Integration. 
+Author: Megh Subedi
